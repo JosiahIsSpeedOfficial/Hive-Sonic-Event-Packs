@@ -1,2 +1,2 @@
-# Hive-Sonic-Event-RP-and-BP
-The official resource/behavior packs of the Hive x Sonic Event!
+# Hive-Sonic-Event-Packs
+The official packs of the Hive x Sonic Event!
